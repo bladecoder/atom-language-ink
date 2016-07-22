@@ -1,0 +1,4 @@
+".source.ink":
+  editor:
+    commentStart: "// "
+    softWrap: true

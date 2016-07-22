@@ -1,0 +1,14 @@
+{
+  "name": "language-ink",
+  "version": "0.0.1",
+  "description": "Ink language support in Atom",
+  "keywords": [
+  ],
+  "repository": "https://github.com/atom/language-ink",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
